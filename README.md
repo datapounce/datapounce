@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brock Wiseman a.k.a <code style="color : darkorange">datapounce</code></p>
+<p align="left">My name is Brock Wiseman a.k.a datapounce</p>
 
 ###
 
